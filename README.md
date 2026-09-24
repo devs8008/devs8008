@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devs8008 and my name is dev (I guess I was born and named to be a developer)
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning python, django
 - 💞️ I’m looking to collaborate to make some beautiful websites with crazy themes
 
 <!---
